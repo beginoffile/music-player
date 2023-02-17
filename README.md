@@ -6,6 +6,6 @@ npm i
 
 Run command
 
-nom run start
+npm run start
 
 
